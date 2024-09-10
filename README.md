@@ -26,8 +26,7 @@ so I like it.
 _-Steven Wright_
 ---
 ### Code
-'''
-const newURL = `${window.location.protocol}//${window.location.host}/${window.location.pathname}${window.location.search}`
-'''
+```const newURL = `${window.location.protocol}//${window.location.host}/${window.location.pathname}${window.location.search}```
+
 This is the Code Snippet I Got according to My S Number.
 [snippet](https://code.pieces.app/collections/javascript)
