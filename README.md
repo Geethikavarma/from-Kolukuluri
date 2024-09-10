@@ -24,3 +24,10 @@ so I like it.
 
 > "I’m writing a book. I’ve got the page numbers done."
 _-Steven Wright_
+---
+### Code
+'''
+const newURL = `${window.location.protocol}//${window.location.host}/${window.location.pathname}${window.location.search}`
+'''
+This is the Code Snippet I Got according to My S Number.
+[snippet](https://code.pieces.app/collections/javascript)
