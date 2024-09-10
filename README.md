@@ -8,6 +8,6 @@ It is played in Multiple Countries<br>
 so I like it.
 ---
 ### Players
-Novak Djokovic
-Carlos Alcaraz
-Daniil Medvedev
+- Novak Djokovic
+- Carlos Alcaraz
+- Daniil Medvedev
